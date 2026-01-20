@@ -1,2 +1,3 @@
 console.log("hello world")
-console.log("feature 1 console")
+const name1 = "ghjk";
+console.log(`feature 1 console$${name1}`)
